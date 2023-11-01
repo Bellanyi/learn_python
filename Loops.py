@@ -23,3 +23,4 @@ j = 0
 while j < len(team):
     print(team[j])
     j = j + 1
+    
